@@ -8,13 +8,13 @@
 ![](Images/3.png)
 # on board webPage
 ![](Images/4.png)
-
+# Blynk
 ![](Images/5.png)
-
+# Blynk
 ![](Images/6.png)
-
+# Blynk
 ![](Images/7.png)
-
+# Blynk
 ![](Images/Schematic.png)
 
 
@@ -25,8 +25,8 @@
 
 
 
-******** RXC6 RF receiver 433 Mhz - 4 Channel **********
-Super Heterodyne recepteur avec decodeur, type d'apprentissage.
+# ******** RXC6 RF receiver 433 Mhz - 4 Channel **********
+<p>Super Heterodyne recepteur avec decodeur, type d'apprentissage.</p>
 decodage PT2262, PT2260, PT2240, EV1527 et d'autres d'apprentissage
 codeto puce ou compatible puces, peut apprendre et magasin 30 pcs de code
 different telecommande.intelligemment distinguer resistance aux chocs entre
