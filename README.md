@@ -2,6 +2,26 @@
 
 ![](Images/1.png)
 
+![](Images/2.png)
+
+![](Images/3.png)
+
+![](Images/4.png)
+
+![](Images/5.png)
+
+![](Images/6.png)
+
+![](Images/7.png)
+
+
+
+
+
+
+
+
+
 ******** RXC6 RF receiver 433 Mhz - 4 Channel **********
 Super Heterodyne recepteur avec decodeur, type d'apprentissage.
 decodage PT2262, PT2260, PT2240, EV1527 et d'autres d'apprentissage
