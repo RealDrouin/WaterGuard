@@ -1,5 +1,7 @@
 # WaterGuard
 
+![](Images/1.png)
+
 ******** RXC6 RF receiver 433 Mhz - 4 Channel **********
 Super Heterodyne recepteur avec decodeur, type d'apprentissage.
 decodage PT2262, PT2260, PT2240, EV1527 et d'autres d'apprentissage
@@ -36,6 +38,6 @@ all the code has been succesfully cleared.
 When PIR actived , Pin D0(ch1), D1(ch2), D2(ch3) = High.
 WaterLeak Sensor , Pin D3 (ch4) = High.
 
-![](Schematic_Shower%20Timer_2021-06-26.png)
+
 
 
