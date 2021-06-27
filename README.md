@@ -61,6 +61,8 @@
 <p>When PIR actived , Pin D0(ch1), D1(ch2), D2(ch3) = High.</p>
 <p>WaterLeak Sensor , Pin D3 (ch4) = High.</p>
 
+![](Images/nodemcu_smartvalve.pdf)
+
 
 
 
