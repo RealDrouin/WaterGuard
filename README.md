@@ -18,6 +18,8 @@
 ![](Images/7.png)
 # Node-Red
 ![](Images/waterguard_node-red.png)
+# Node-Red
+![](Images/Node-Red_Dashboard.png)
 
 # Schematic
 ![](Images/Schematic.png)
