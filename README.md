@@ -65,10 +65,3 @@
 <p>and exit learning mode.</p>
 <p>To Reset, Press and hold leaning key indicator lit, hold about 8 seconds after the light is off,</p>
 <p>all the code has been succesfully cleared.</p>
-<p>When PIR actived , Pin VT = High.</p>
-<p>WaterLeak Sensor , Pin D0 (ch4) = High.</p>
-
-
-
-
-
